@@ -7,8 +7,6 @@ Material Valid for Javascript Fundamental
 Hari ini kita akan berkenalan dengan JavaScript,
 dan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
 
-![Let's start!](assets/start.png)
-
 ## Metode Pengumpulan Tugas
 
 Untuk seluruh tugas day 1, buatlah sebuah repository baru di github dengan nama day1. Untuk setiap satu tugas, buatlah file .js (untuk tugas javascript), file .txt (untuk tugas pseudocode), atau file .png (untuk tugas screenshot codecademy) untuk masing-masing tugas. Contoh, untuk tugas pertama, buatlah file .js dengan nama exercise-1.js dan push ke github. Kirimkan link yang merujuk ke file .js tersebut ke kage. **Jangan kirimkan link ke repository, tapi ke kage melalui slack**.
