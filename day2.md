@@ -1,7 +1,5 @@
 # Konohamaru Camp: Arrays and Logics
 
-![Header](assets/header-w3.jpg)
-
 Selamat sudah melewati materi sejauh ini kita akan melatih pemahaman tentang logika dan implementasinya ke berbagai kasus. Pastikan kalian telah memahami dengan baik materi sebelum nya.
 
 Karena sudah menginjak materi lebih dalam, ada baiknya kamu menyelesaikan tugasnya dari hari ke hari secara rutin. Semaksimal mungkin tugas-tugas yang ada tidak ditumpuk di kemudian hari atau bahkan di akhir minggu, karena mulai sekarang setiap hari nya ada challenge coding yang menentukan final project :bowtie: , dan semua challenge yang bertanda :anchor: ini wajib diselesaikan.
