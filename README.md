@@ -1,4 +1,4 @@
-# Konohamaru Week 1
+# Konohamaru Dojo
 
 Materi Javascript Fundamental ini dipergunakan untuk mempelajari dan mendalami Javascript lebih dalam, silahkan explore kemampuan kalian dan tetap semangat guys.
 
